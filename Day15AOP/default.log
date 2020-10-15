@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-15T06:17:29.534736900Z</date>
+  <millis>1602742649534</millis>
+  <nanos>736900</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>com.training.org.BeforeAdvice</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-15T06:20:05.150741500Z</date>
+  <millis>1602742805150</millis>
+  <nanos>741500</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>com.training.org.BeforeAdvice</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before Souvick</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-15T06:23:04.247351700Z</date>
+  <millis>1602742984247</millis>
+  <nanos>351700</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>com.training.org.BeforeAdvice</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before Souvick</message>
+</record>
+</log>
